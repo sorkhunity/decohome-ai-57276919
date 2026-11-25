@@ -1,2 +1,8 @@
-# decohome-ai-57276919
-DecoHome AI — built with Sorkh.app
+# DecoHome AI
+
+Built with Sorkh.app Make.
+
+```
+npm install
+npm run dev
+```
